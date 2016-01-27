@@ -52,7 +52,6 @@
     ]
   },
   "dependencies": {
-    "katex-build": "^0.2.0",
     "react": "^0.13.2"
   }
 }
